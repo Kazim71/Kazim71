@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi 👋 I'm Mohammad Kazim
 
-<!--
-**Kazim71/Kazim71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Cloud-Oriented Software Engineer  
+SQL | REST APIs | Cloud Deployments | Data-Centric Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 2025 ECE graduate with experience as an Associate Software Engineer at HireEase
+- Built internal production systems using React, REST APIs, and SQL databases
+- Worked on real-world issues: API failures, validation errors, and deployment challenges
+- Interested in backend systems, databases, and cloud infrastructure
+
+---
+
+### Tech Stack
+**Languages:** Python, JavaScript  
+**Backend:** Node.js, REST APIs  
+**Databases:** MySQL, SQL (joins, aggregation, analysis)  
+**Cloud:** AWS fundamentals, Railway / Render  
+**Tools:** Git, GitHub, Linux basics
+
+---
+
+### Featured Projects
+- Transaction Failure Analysis (SQL-based data analysis)
+- Internal Service Request & Approval System (Backend + Cloud)
+
+---
+
+> Building reliable backend systems with a focus on data and scalability.
