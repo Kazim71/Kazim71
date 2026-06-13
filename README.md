@@ -22,10 +22,4 @@ SQL | REST APIs | Cloud Deployments | Data-Centric Systems
 
 ---
 
-### Featured Projects
-- Transaction Failure Analysis (SQL-based data analysis)
-- Internal Service Request & Approval System (Backend + Cloud)
-
----
-
 > Building reliable backend systems with a focus on data and scalability.
