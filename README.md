@@ -6,7 +6,7 @@ SQL | REST APIs | Cloud Deployments | Data-Centric Systems
 ---
 
 ### About Me
-- 2025 ECE graduate with experience as an Associate Software Engineer at HireEase
+- 2025 ECE graduate with experience as an Software Engineer
 - Built internal production systems using React, REST APIs, and SQL databases
 - Worked on real-world issues: API failures, validation errors, and deployment challenges
 - Interested in backend systems, databases, and cloud infrastructure
