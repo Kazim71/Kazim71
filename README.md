@@ -1,25 +1,103 @@
-Hi 👋 I'm Mohammad Kazim
+# Hi 👋 I'm Mohammad Kazim
 
-Backend & Cloud-Oriented Software Engineer  
-SQL | REST APIs | Cloud Deployments | Data-Centric Systems
+### Backend & Cloud Engineer
 
----
+Building scalable backend systems, APIs, database-driven applications, and cloud-native solutions.
 
-### About Me
-- 2025 ECE graduate with experience as an Software Engineer
-- Built internal production systems using React, REST APIs, and SQL databases
-- Worked on real-world issues: API failures, validation errors, and deployment challenges
-- Interested in backend systems, databases, and cloud infrastructure
+**Python • FastAPI • SQL • PostgreSQL • Cloud Infrastructure • Docker • REST APIs**
 
 ---
 
-### Tech Stack
-**Languages:** Python, JavaScript  
-**Backend:** Node.js, REST APIs  
-**Databases:** MySQL, SQL (joins, aggregation, analysis)  
-**Cloud:** AWS fundamentals, Railway / Render  
-**Tools:** Git, GitHub, Linux basics
+## 🚀 About Me
+
+* 🎓 B.Tech in Electronics & Communication Engineering (2025)
+* 💼 Experience building production-oriented web applications and internal business systems
+* 🔧 Focused on backend engineering, database design, cloud deployments, and system reliability
+* 📊 Strong interest in data-driven systems, automation, monitoring, and scalable architectures
+* ☁️ Hands-on experience deploying applications using modern cloud platforms and containerized environments
 
 ---
 
-> Building reliable backend systems with a focus on data and scalability.
+## 🛠️ Technical Skills
+
+### Backend Development
+
+* Python
+* FastAPI
+* Node.js
+* Express.js
+* REST API Development
+* Authentication & Authorization
+* API Integration
+* Backend Architecture
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQL
+* Database Design
+* Query Optimization
+* Joins & Aggregations
+* Indexing
+* Data Modeling
+* Transaction Analysis
+
+### Cloud & DevOps
+
+* AWS Fundamentals
+* Docker
+* Docker Compose
+* Railway
+* Render
+* Vercel
+* Linux
+* CI/CD Concepts
+* GitHub Actions
+
+### Frontend
+
+* React.js
+* Next.js
+* JavaScript
+* TypeScript
+* Tailwind CSS
+* HTML5
+* CSS3
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Postman
+* Supabase
+* Redis
+* RabbitMQ
+* Linux CLI
+
+---
+
+## 📌 Areas of Interest
+
+* Backend Engineering
+* Cloud Infrastructure
+* Database Systems
+* Distributed Systems
+* API Development
+* DevOps & Automation
+* Data Engineering
+* System Design
+
+---
+
+## 📈 Current Focus
+
+* Building scalable backend services using Python & FastAPI
+* Advanced SQL and PostgreSQL optimization
+* Cloud-native deployments and containerization
+* Event-driven and distributed architectures
+* Production monitoring and observability
+
+---
+
+> Designing reliable systems, optimizing data workflows, and building software that scales beyond the happy path.
