@@ -7,8 +7,8 @@
 I design and build backend systems — scalable APIs, database-driven services,
 and cloud-native deployments that hold up under real-world conditions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadkazim71)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadkazim71@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.com)
 
 </div>
@@ -113,7 +113,7 @@ platform engineering**.
 
 I'm open to **backend engineering roles, cloud/DevOps opportunities, and collaborative projects** — especially where backend reliability and system design matter.
 
-Reach out via [LinkedIn](https://linkedin.com/in/your-profile) or [email](mailto:your@email.com). I respond promptly.
+Reach out via [LinkedIn](https://linkedin.com/in/mohammadkazim71) or [email](mailto:mohammadkazim71@gmail.com). I respond promptly.
 
 ---
 
